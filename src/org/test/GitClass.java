@@ -9,6 +9,7 @@ public class GitClass {
 
 	public void hello() {
 		System.out.println("updated code");
+		System.out.println("new code");
 	}
 
 }
