@@ -4,11 +4,11 @@ public class GitClass {
 
 	public static void main(String[] args) {
 		System.out.println("first git code");
-		
-	}
-	public void hello() {
-		// TODO Auto-generated method stub
 
+	}
+
+	public void hello() {
+		System.out.println("updated code");
 	}
 
 }
